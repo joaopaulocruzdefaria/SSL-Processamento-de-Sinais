@@ -1,0 +1,17 @@
+# Compilados/Binários
+ExercicioA/reflexao
+ExercicioB/escala
+ExercicioC/amplitude
+ExercicioD/deslocamento
+ExercicioE/soma_degrau
+
+# Objetos/Executáveis genéricos
+*.o
+*.out
+programa
+
+# IDEs e temporários
+.vscode/
+.idea/
+*.swp
+*.log

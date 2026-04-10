@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#121212" />
+  <line x1="60" y1="200" x2="740" y2="200" stroke="#333" stroke-width="1" />
+  <text x="400" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#fff">Sinal Original x[n]</text>
+  <line x1="60" y1="326.667" x2="740" y2="326.667" stroke="#888" stroke-width="2" />
+  <line x1="60" y1="326.667" x2="60" y2="215.556" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="60" cy="215.556" r="6" fill="#00d4ff" />
+  <text x="60" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">0</text>
+  <line x1="196" y1="326.667" x2="196" y2="215.556" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="196" cy="215.556" r="6" fill="#00d4ff" />
+  <text x="196" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">1</text>
+  <line x1="332" y1="326.667" x2="332" y2="215.556" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="332" cy="215.556" r="6" fill="#00d4ff" />
+  <text x="332" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">2</text>
+  <line x1="468" y1="326.667" x2="468" y2="104.444" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="468" cy="104.444" r="6" fill="#00d4ff" />
+  <text x="468" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">3</text>
+  <line x1="604" y1="326.667" x2="604" y2="104.444" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="604" cy="104.444" r="6" fill="#00d4ff" />
+  <text x="604" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">4</text>
+  <line x1="740" y1="326.667" x2="740" y2="104.444" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" />
+  <circle cx="740" cy="104.444" r="6" fill="#00d4ff" />
+  <text x="740" y="351.667" text-anchor="middle" font-family="monospace" font-size="14" fill="#aaa">5</text>
+</svg>
